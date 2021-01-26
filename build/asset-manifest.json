@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.c0c034c8.chunk.js",
-    "main.js.map": "/static/js/main.c0c034c8.chunk.js.map",
+    "main.js": "/static/js/main.ee22da15.chunk.js",
+    "main.js.map": "/static/js/main.ee22da15.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9359e0c3.js",
     "runtime-main.js.map": "/static/js/runtime-main.9359e0c3.js.map",
-    "static/js/2.3eb6f85d.chunk.js": "/static/js/2.3eb6f85d.chunk.js",
-    "static/js/2.3eb6f85d.chunk.js.map": "/static/js/2.3eb6f85d.chunk.js.map",
+    "static/js/2.aaf08e88.chunk.js": "/static/js/2.aaf08e88.chunk.js",
+    "static/js/2.aaf08e88.chunk.js.map": "/static/js/2.aaf08e88.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.3eb6f85d.chunk.js.LICENSE.txt": "/static/js/2.3eb6f85d.chunk.js.LICENSE.txt",
+    "static/js/2.aaf08e88.chunk.js.LICENSE.txt": "/static/js/2.aaf08e88.chunk.js.LICENSE.txt",
     "static/media/Wikipedia_Logo.f329535e.png": "/static/media/Wikipedia_Logo.f329535e.png",
     "static/media/poster.23bcae56.jpg": "/static/media/poster.23bcae56.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9359e0c3.js",
-    "static/js/2.3eb6f85d.chunk.js",
-    "static/js/main.c0c034c8.chunk.js"
+    "static/js/2.aaf08e88.chunk.js",
+    "static/js/main.ee22da15.chunk.js"
   ]
 }
